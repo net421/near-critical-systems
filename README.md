@@ -6,6 +6,17 @@ This repository contains the definitive research code, results, theory notes, an
 
 The repository is the foundational layer of the broader near-critical research program. It contains the theoretical model, corrected inverse-Gaussian calibration, hazard characterization, threshold-control experiments, tests, paper tables, and submission package.
 
+## Quick access
+
+- **Read the manuscript:** [`manuscript/submission_package/01_anonymized_manuscript_CAIE.docx`](manuscript/submission_package/01_anonymized_manuscript_CAIE.docx)
+- **Submission package:** [`manuscript/submission_package/`](manuscript/submission_package/)
+- **Theory notes:** [`docs/theory/`](docs/theory/)
+- **Reproducibility guide:** [`docs/REPRODUCIBILITY.md`](docs/REPRODUCIBILITY.md)
+- **Result-to-claim map:** [`docs/RESULTS.md`](docs/RESULTS.md)
+- **Core library:** [`src/buffer_policy/`](src/buffer_policy/)
+- **Reproduction scripts:** [`scripts/`](scripts/)
+- **Archived results:** [`results/`](results/)
+
 ## Research ecosystem
 
 ```text
