@@ -6,6 +6,8 @@ This repository contains the definitive research code, results, theory notes, an
 
 The repository is the foundational layer of the broader near-critical research program. It contains the theoretical model, corrected inverse-Gaussian calibration, hazard characterization, threshold-control experiments, tests, paper tables, and submission package.
 
+**Archival status:** GitHub release/Zenodo archival metadata is being synchronized for the definitive public software record.
+
 ## Quick access
 
 - **Read the manuscript:** [`manuscript/submission_package/01_anonymized_manuscript_CAIE.docx`](manuscript/submission_package/01_anonymized_manuscript_CAIE.docx)
