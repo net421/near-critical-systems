@@ -1,0 +1,36 @@
+TITLE
+Reliability-Based Threshold Control for Near-Critical Capacity-Constrained Systems: Corrected First-Passage Dynamics and Hazard Characterization
+
+SHORT TITLE
+Reliability-Based Threshold Control for Near-Critical Systems
+
+ABSTRACT (181 words)
+Near-critical capacity-constrained systems operate close to their stability limits and are vulnerable to collapse after sequences of random replenishment disruptions. Although such failures are operational rather than physical, they create reliability-management challenges analogous to condition-based maintenance: intervention decisions must balance preventive costs against failure consequences. This paper develops a unified reliability framework for disruption-driven collapse in a stochastic inventory system with Poisson demand and random capacity interruptions. Collapse is modeled as a first-passage event. We show that the classical inverse-Gaussian diffusion approximation systematically overstates first-passage variance in the near-critical regime, and introduce an empirical correction for the inverse-Gaussian shape parameter that reduces mean absolute shape-parameter error from 36.0% to 5.0% across 42 calibrated design points. We then characterize the reliability hazard structure and show that decreasing-failure-rate behavior emerges through survivorship selection, making age-based intervention ineffective in key regimes. Building on these results, we formulate an average-cost Markov decision process and compute optimal condition-based threshold policies. Numerical experiments show cost reductions of up to 22% over the age-based optimum, stable thresholds under capacity variation, and regret below 6% under 30% demand-rate misspecification.
+
+KEYWORDS
+inventory systems; disruption management; Markov decision process; threshold policy; condition-based maintenance; first-passage reliability; diffusion approximation
+
+HIGHLIGHTS
+- Models disruption-driven collapse as a first-passage reliability problem.
+- Corrected IG approximation cuts shape-parameter error from 36.0% to 5.0%.
+- Direct hazard tests show approximate DFR across all feasible configurations.
+- Threshold intervention reduces long-run cost by up to 22%.
+- Optimal thresholds remain stable under capacity and demand-rate perturbations.
+
+ARTICLE TYPE
+Research article
+
+TARGET JOURNAL
+Computers & Industrial Engineering
+
+AUTHOR
+Emmanuel Beristain Guzmán
+
+AFFILIATION
+[Affiliation to be inserted]
+
+CORRESPONDING AUTHOR EMAIL
+[Corresponding author email to be inserted]
+
+ANONYMIZED DATA/CODE REPOSITORY
+https://github.com/anonymousresearchrep-cmd/near-critical-systems

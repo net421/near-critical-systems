@@ -1,0 +1,25 @@
+CAIE PACKAGE VALIDATION
+=======================
+PASS: authoritative abstract word count = 181 (limit 250)
+PASS: keyword count = 7 (allowed 1-7)
+PASS: highlight count = 5 (allowed 3-5)
+PASS: highlight 1 length = 73/85
+PASS: highlight 2 length = 73/85
+PASS: highlight 3 length = 76/85
+PASS: highlight 4 length = 58/85
+PASS: highlight 5 length = 78/85
+PASS: native OMML equation count = 21
+PASS: table count = 11
+PASS: APA reference count = 47
+PASS: unconverted numeric citations = 0
+PASS: author name absent from anonymized manuscript = yes
+PASS: affiliation placeholder absent from anonymized manuscript = yes
+INFO: cited references = 47
+PASS: uncited references pruned = [23, 24, 38, 39]
+PASS: corrected beta coefficients present = yes
+PASS: corrected Table 2 values present = yes
+PASS: error denominator defined = yes
+PASS: corrected RNG method documented = yes
+PASS: legacy calibration claims absent = yes
+INFO: no figure callouts detected; no artwork files generated.
+REMINDER: affiliation, email, funding, repository, and AI disclosure need author verification.

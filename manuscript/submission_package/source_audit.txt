@@ -1,0 +1,13 @@
+SOURCE AUDIT
+============
+The archived submission manuscript is the structural and narrative source.
+Its beta-calibration values were superseded by the definitive corrected-RNG
+run: 15,000 replications, 300,000-period horizon, master seed 20260429,
+42 fitted points, and independent SeedSequence child streams.
+The v1-v3 files are retained as revision-history consistency inputs.
+
+reliability_threshold_control_v1.docx | bytes=78979 | paragraphs=950 | sha256=d5acc9d210739b95e4a14598c140e06c108983be062536f1267e360bd5fa2e73
+reliability_threshold_control_v2.docx | bytes=81348 | paragraphs=966 | sha256=c680baaf356c7b8463c6419692249f13f6698072ff686392bdfa2305c2668ffe
+reliability_threshold_control_v3.docx | bytes=73928 | paragraphs=965 | sha256=cbb740e2b9115ca32d7d4bbd931ee83fcceb72a747b1ebd1466cdfdfd8b4e4da
+
+01_manuscript_main_submission_ready.docx (inside ZIP) | bytes=74339 | paragraphs=965 | sha256=b86067e8a51316ec9d83734662a80212e14fb121e5891b929d16fb6734012745
