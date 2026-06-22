@@ -1,12 +1,14 @@
 # Reliability-Based Threshold Control for Near-Critical Systems
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20792811.svg)](https://doi.org/10.5281/zenodo.20792811)
+
 This repository contains the definitive research code, results, theory notes, and manuscript/submission materials for **Paper A**:
 
 > *Reliability-Based Threshold Control for Near-Critical Capacity-Constrained Systems: Corrected First-Passage Dynamics and Hazard Characterization*
 
 The repository is the foundational layer of the broader near-critical research program. It contains the theoretical model, corrected inverse-Gaussian calibration, hazard characterization, threshold-control experiments, tests, paper tables, and submission package.
 
-**Archival status:** GitHub release/Zenodo archival metadata is being synchronized for the definitive public software record.
+**Archived software release:** [https://doi.org/10.5281/zenodo.20792811](https://doi.org/10.5281/zenodo.20792811)
 
 ## Quick access
 
@@ -151,7 +153,11 @@ See [docs/REPRODUCIBILITY.md](docs/REPRODUCIBILITY.md) for the complete workflow
 
 ## Citation
 
-If you use this repository, please cite the associated paper and archived software release. A Zenodo DOI can be added here after the final GitHub release is published.
+If you use this repository, please cite the archived Paper A software release:
+
+```text
+Reliability-Based Threshold Control for Near-Critical Systems [Software and reproducibility package]. Zenodo. https://doi.org/10.5281/zenodo.20792811
+```
 
 ## License
 
